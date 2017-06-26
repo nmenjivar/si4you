@@ -15,20 +15,7 @@ h1, h2, h3 {
   font-size: 3em;
   font-weight: 700;
   background: linear-gradient(to right, yellow, red, blue);
-}
-
-h1{
-text-color: #777777;
-}
-
-h2{
-text-color: #777777;
-background-color: red;
-}
-
-h3{
-text-color: #777777;
-background-color: yellow;
+  text-color: #777777;
 }
 
 .wrapper {
